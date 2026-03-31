@@ -111,64 +111,6 @@ Subject, environment, lighting, camera, color, atmosphere, wardrobe, quality —
 
 <br/>
 
-## 🏗️ System Architecture
-┌─────────────────────────────────────────────────────────────────┐
-│ NXSGEN V4.0 ENGINE │
-├─────────────────────────────────────────────────────────────────┤
-│ │
-│ 📸 INPUT ──────────────────────────────────────────────────► │
-│ │ Reference Image (Pinterest/Instagram/Any) │
-│ │ OR Scene Description (Any Language) │
-│ │ │
-│ ▼ │
-│ ┌─────────────────────────────────────────────────────┐ │
-│ │ AESTHETIC DETECTION ENGINE │ │
-│ │ ┌──────────┐ ┌──────────┐ ┌──────────┐ │ │
-│ │ │ Primary │ │Secondary │ │ Accent │ │ │
-│ │ │ Preset │ │ Preset │ │ Preset │ │ │
-│ │ │ (60%) │ │ (30%) │ │ (10%) │ │ │
-│ │ └──────────┘ └──────────┘ └──────────┘ │ │
-│ └─────────────────────────────────────────────────────┘ │
-│ │ │
-│ ▼ │
-│ ┌─────────────────────────────────────────────────────┐ │
-│ │ 65-LAYER DEEP ANALYSIS ENGINE │ │
-│ │ │ │
-│ │ ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐ │ │
-│ │ │Subject │ │Wardrobe │ │ Camera │ │Lighting │ │ │
-│ │ │Anatomy │ │Forensics│ │ Optics │ │Architect│ │ │
-│ │ │L01-L08 │ │L09-L14 │ │L15-L21 │ │L22-L29 │ │ │
-│ │ └─────────┘ └─────────┘ └─────────┘ └─────────┘ │ │
-│ │ ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐ │ │
-│ │ │ Color │ │Environmt│ │Atmosphre│ │Composit.│ │ │
-│ │ │ Science │ │Complete │ │& Mood │ │Geometry │ │ │
-│ │ │L30-L33 │ │L34-L39 │ │L40-L43 │ │L44-L47 │ │ │
-│ │ └─────────┘ └─────────┘ └─────────┘ └─────────┘ │ │
-│ │ ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐ │ │
-│ │ │Technical│ │Referenc.│ │AI Safety│ │Special │ │ │
-│ │ │& Post │ │& Style │ │Prevent. │ │Analysis │ │ │
-│ │ │L48-L51 │ │L52-L56 │ │L57-L63 │ │L64-L65 │ │ │
-│ │ └─────────┘ └─────────┘ └─────────┘ └─────────┘ │ │
-│ └─────────────────────────────────────────────────────┘ │
-│ │ │
-│ ▼ │
-│ ┌─────────────────────────────────────────────────────┐ │
-│ │ PROMPT COMPILATION ENGINE │ │
-│ │ │ │
-│ │ main_prompt (300-500 words) ──────────── PRIMARY │ │
-│ │ short_prompt (80-120 words) ──────────── COMPACT │ │
-│ │ negative_prompt ─────────────────────── EXCLUSION │ │
-│ │ 4 variations ────────────────────────── ALTERNATE │ │
-│ │ 8 modular blocks ────────────────────── COMPONENTS │ │
-│ └─────────────────────────────────────────────────────┘ │
-│ │ │
-│ ▼ │
-│ 📦 OUTPUT ── ONE UNIFIED JSON ─── Ready to paste anywhere │
-│ │
-└─────────────────────────────────────────────────────────────────┘
-
-
-
 
 <br/>
 
@@ -470,30 +412,7 @@ Dark Academia Pinterest aesthetic with French café culture warmth
 
 <br/>
 
-## 🔬 The Philosophy
 
-<div align="center">
-╔══════════════════════════════════════════════════════════════╗
-║ ║
-║ "AI image generators are literal and limited. ║
-║ They don't imagine — they pattern-match. ║
-║ The more precise your description, ║
-║ the more precise the result. ║
-║ ║
-║ NXSGEN doesn't just describe what you see. ║
-║ It describes what you FEEL, ║
-║ what you HEAR, ║
-║ what you SMELL, ║
-║ what happened BEFORE this moment, ║
-║ and what will happen AFTER. ║
-║ ║
-║ Because a great image is never just pixels. ║
-║ It's a frozen moment of a story ║
-║ that the viewer completes in their mind." ║
-║ ║
-║ — NX, Creator of NXSGEN ║
-║ ║
-╚══════════════════════════════════════════════════════════════╝
 
 
 
