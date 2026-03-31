@@ -305,8 +305,7 @@ Subject, environment, lighting, camera, color, atmosphere, wardrobe, quality —
 ## 🚀 Quick Start
 
 ### Step 1: Copy the System Prompt
-Copy the entire NXSGEN system prompt from the /system-prompt directory
-
+Copy the entire NXSGEN system prompt 
 
 
 
