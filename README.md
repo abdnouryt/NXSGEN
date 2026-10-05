@@ -489,7 +489,7 @@ And every cinematographer, photographer, colorist, and production designer who d
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
 <p>
-  <b>NXSGEN</b> — Making AI image generators cry with precision since 2025.
+  <b>NXSGEN</b> — Making AI image generators cry with precision since 2026.
   <br/>
   <sub>⭐ Star this repo if it helped you create something amazing</sub>
 </p>
