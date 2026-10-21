@@ -22,10 +22,10 @@
 
 <!-- Social -->
 <p>
-  <a href="https://instagram.com/nx__sty">
+  <a href="https://instagram.com/nr01xx">
     <img src="https://img.shields.io/badge/Instagram-@nx__sty-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/nxsty/nxsgen">
+  <a href="https://github.com/abdnouyt/nxsgen">
     <img src="https://img.shields.io/badge/GitHub-NXSGEN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
