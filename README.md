@@ -23,7 +23,7 @@
 <!-- Social -->
 <p>
   <a href="https://instagram.com/nr01xx">
-    <img src="https://img.shields.io/badge/Instagram-@nx__sty-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-@nr01xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/abdnouyt/nxsgen">
     <img src="https://img.shields.io/badge/GitHub-NXSGEN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -467,13 +467,13 @@ And every cinematographer, photographer, colorist, and production designer who d
 
 <div align="center">
 
-<a href="https://instagram.com/nx__sty">
-  <img src="https://img.shields.io/badge/Instagram-@nx__sty-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://instagram.com/nr01xx">
+  <img src="https://img.shields.io/badge/Instagram-@nr01xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
-**Created with obsessive attention to detail by [@nx__sty](https://instagram.com/nx__sty)**
+**Created with obsessive attention to detail by [@nr01xx](https://instagram.com/nr01xx)**
 
 *If NXSGEN helped you create something beautiful, I'd love to see it.*
 *Tag me on Instagram or open an issue with your results.*
